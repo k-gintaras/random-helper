@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "randeya-79482": {
+      "hosting": {
+        "random-helper": [
+          "randeya-79482"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "randeya-79482"
+  }
+}
